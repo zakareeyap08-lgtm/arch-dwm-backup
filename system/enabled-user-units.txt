@@ -1,0 +1,11 @@
+UNIT FILE                   STATE   PRESET
+pipewire-pulse.service      enabled enabled
+pipewire.service            enabled enabled
+wireplumber.service         enabled enabled
+xdg-user-dirs.service       enabled enabled
+gnome-keyring-daemon.socket enabled enabled
+p11-kit-server.socket       enabled enabled
+pipewire-pulse.socket       enabled enabled
+pipewire.socket             enabled enabled
+
+8 unit files listed.

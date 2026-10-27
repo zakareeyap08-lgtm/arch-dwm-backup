@@ -1,0 +1,95 @@
+00:00.0 Host bridge: Intel Corporation Tiger Lake-UP3/H35 4 cores Host Bridge/DRAM Registers (rev 01)
+	Subsystem: Dell Device 0a1f
+	Kernel modules: igen6_edac
+00:02.0 VGA compatible controller: Intel Corporation TigerLake-LP GT2 [Iris Xe Graphics] (rev 01)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: i915
+	Kernel modules: i915, xe
+00:04.0 Signal processing controller: Intel Corporation TigerLake-LP Dynamic Tuning Processor Participant (rev 01)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: proc_thermal
+	Kernel modules: processor_thermal_device_pci_legacy
+00:07.0 PCI bridge: Intel Corporation Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #0 (rev 01)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: pcieport
+	Kernel modules: shpchp
+00:07.1 PCI bridge: Intel Corporation Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #1 (rev 01)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: pcieport
+	Kernel modules: shpchp
+00:0d.0 USB controller: Intel Corporation Tiger Lake-LP Thunderbolt 4 USB Controller (rev 01)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: xhci_hcd
+	Kernel modules: xhci_pci
+00:0d.2 USB controller: Intel Corporation Tiger Lake-LP Thunderbolt 4 NHI #0 (rev 01)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: thunderbolt
+	Kernel modules: thunderbolt
+00:12.0 Serial controller: Intel Corporation 500 Series Chipset Family On-Package Integrated Sensor Hub (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: intel_ish_ipc
+	Kernel modules: intel_ish_ipc
+00:14.0 USB controller: Intel Corporation 500 Series Chipset Family On-Package USB 3.2 Gen 2x1 (10 Gbs) xHCI Host Controller (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: xhci_hcd
+	Kernel modules: xhci_pci
+00:14.2 RAM memory: Intel Corporation 500 Series Chipset Family On-Package Shared SRAM (rev 20)
+	Subsystem: Dell Device 0a1f
+00:14.3 Network controller: Intel Corporation Wi-Fi 6 AX201 (rev 20)
+	Subsystem: Intel Corporation Device 4070
+	Kernel driver in use: iwlwifi
+	Kernel modules: iwlwifi
+00:15.0 Serial bus controller: Intel Corporation 500 Series Chipset Family On-Package I2C Controller #0 (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: intel-lpss
+	Kernel modules: intel_lpss_pci
+00:15.1 Serial bus controller: Intel Corporation 500 Series Chipset Family On-Package I2C Controller #1 (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: intel-lpss
+	Kernel modules: intel_lpss_pci
+00:16.0 Communication controller: Intel Corporation 500 Series Chipset Family On-Package CSME HECI #1 (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: mei_me
+	Kernel modules: mei_me
+00:16.3 Serial controller: Intel Corporation 500 Series Chipset Family On-Package CSME Keyboard and Text (KT) Redirection (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: serial
+	Kernel modules: 8250_pci
+00:1c.0 PCI bridge: Intel Corporation 500 Series Chipset Family On-Package PCI Express Root Port #5 (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: pcieport
+	Kernel modules: shpchp
+00:1c.6 PCI bridge: Intel Corporation 500 Series Chipset Family On-Package PCI Express Root Port #7 (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: pcieport
+	Kernel modules: shpchp
+00:1d.0 PCI bridge: Intel Corporation 500 Series Chipset Family On-Package PCI Express Root Port #9 (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: pcieport
+	Kernel modules: shpchp
+00:1f.0 ISA bridge: Intel Corporation 500 Series Chipset Family On-Package eSPI Controller (rev 20)
+	Subsystem: Dell Device 0a1f
+00:1f.3 Audio device: Intel Corporation 500 Series Chipset Family On-Package High Definition Audio (HD Audio) (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: snd_hda_intel
+	Kernel modules: snd_soc_avs, snd_sof_pci_intel_tgl, snd_hda_intel
+00:1f.4 SMBus: Intel Corporation 500 Series Chipset Family On-Package System Management Bus (SMBus) (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: i801_smbus
+	Kernel modules: i2c_i801
+00:1f.5 Serial bus controller: Intel Corporation 500 Series Chipset Family On-Package SPI (flash) Controller (rev 20)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: intel-spi
+	Kernel modules: spi_intel_pci
+71:00.0 Cellular controller/modem: Intel Corporation XMM7360 LTE Advanced Modem (rev 01)
+	Subsystem: Dell Device 5820
+	Kernel driver in use: iosm
+	Kernel modules: iosm
+72:00.0 Unassigned class [ff00]: Realtek Semiconductor Co., Ltd. RTS525A PCI Express Card Reader (rev 01)
+	Subsystem: Dell Device 0a1f
+	Kernel driver in use: rtsx_pci
+	Kernel modules: rtsx_pci
+73:00.0 Non-Volatile memory controller: SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive
+	Subsystem: SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive
+	Kernel driver in use: nvme
+	Kernel modules: nvme

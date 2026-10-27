@@ -1,0 +1,4 @@
+onlyoffice-bin
+telegram-desktop-bin
+yay
+yay-debug

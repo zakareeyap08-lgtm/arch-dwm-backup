@@ -1,0 +1,26 @@
+
+# Compiled files
+*.o
+*.so
+*.a
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Private keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Python cache
+__pycache__/
+*.pyc
